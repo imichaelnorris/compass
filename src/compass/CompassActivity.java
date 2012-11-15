@@ -1,4 +1,4 @@
-package com.augmentedsoftware.compass;
+package compass;
 //NOTE, this uses accelerometer as well.
 
 import android.app.Activity;
